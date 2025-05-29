@@ -29,3 +29,4 @@ JavaScript – Calculator logic and interactivity
 git clone https://github.com/himanshukumar-xp/basic-calculator.git
 cd basic-calculator
 ```
+Author : Himanshu Kumar
