@@ -19,3 +19,13 @@ HTML5 – Markup for the layout
 CSS3 – Styling and layout
 
 JavaScript – Calculator logic and interactivity
+
+
+## 📦 How to Use
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/himanshukumar-xp/basic-calculator.git
+cd basic-calculator
+```
