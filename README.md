@@ -12,3 +12,10 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 ## 📁 Project Structure
 
 
+🛠️ Technologies Used
+
+HTML5 – Markup for the layout
+
+CSS3 – Styling and layout
+
+JavaScript – Calculator logic and interactivity
